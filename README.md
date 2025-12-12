@@ -275,4 +275,4 @@ For questions or issues, contact the EXCO team or raise an issue in this reposit
 
 ## License
 
-Internal use only - SIT Helix Executive Committee
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
